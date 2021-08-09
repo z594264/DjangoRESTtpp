@@ -79,7 +79,7 @@ pyspider==0.3.10
 python-dateutil==2.7.5
 python-editor==1.0.3
 pytz==2018.5
-pywin32==224
+pywin32==301
 PyYAML==3.13
 queuelib==1.5.0
 rarfile==3.0
